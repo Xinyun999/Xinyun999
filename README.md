@@ -12,7 +12,7 @@ I'm a Computational Science & Engineering PhD candidate with 4+ years of ML expe
 - **LLM & AI Agent Security** 🤖: Researching adversarial, poisoning, and backdoor attacks.
 - **Applied Machine Learning** 📈: Building deep learning systems for medical imaging, 3D vision, and secure AI applications. From 3D vision & ToF depth sensing to secure model deployment on cloud (EC2/Docker).
 - **ML Systems** ☁️: Deploying and optimizing ML workloads using PyTorch, Docker, and AWS EC2.
-- 📄 **Download Resume**(https://github.com/Xinyun999/Xinyun999/raw/main/xinyunl@mtu.edu_resume.pdf)
+- 📄 [**Download Resume**](https://github.com/Xinyun999/Xinyun999/raw/main/xinyunl@mtu.edu_resume.pdf)
 
 💼 Open to **MLE**, **Research Scientist** and **AI Engineer** roles
 
