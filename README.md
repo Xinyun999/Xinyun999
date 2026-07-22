@@ -12,7 +12,8 @@ I'm a Computational Science & Engineering PhD candidate with 4+ years of ML expe
 - **LLM & AI Agent Security** 🤖: Researching adversarial, poisoning, and backdoor attacks.
 - **Applied Machine Learning** 📈: From 3D vision & ToF depth sensing to secure model deployment on cloud (EC2/Docker).
 
-🎓 [Google Scholar](https://scholar.google.com/citations?user=UOUAO9AAAAAJ&hl=en) &nbsp;·&nbsp; 💼 Open to **MLE** and **Forward Deployed Engineer** roles
+#🎓 [Google Scholar](https://scholar.google.com/citations?user=UOUAO9AAAAAJ&hl=en) &nbsp;·&nbsp; 
+💼 Open to **MLE** and **Forward Deployed Engineer** roles
 
 ![Profile views](https://komarev.com/ghpvc/?username=Xinyun999&label=Profile%20views&color=0e75b6&style=flat)
 
