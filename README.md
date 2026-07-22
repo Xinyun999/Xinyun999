@@ -6,14 +6,14 @@
 
 ### 🔬 CS PhD candidate specializing in AI Security
 
-I'm a Computational Science & Engineering PhD candidate with 4+ years of ML experience, focused on:
+I'm a Computational Science & Engineering PhD candidate with 4+ years of ML experience, specializing in AI Security and Trustworthy AI, focused on:
 
-- **Federated Learning Security** 🔐: Building robust defenses for distributed ML systems.
+- **AI Security** 🔐: Researching federated learning security, LLM security, adversarial robustness, data poisoning, and backdoor defenses.
 - **LLM & AI Agent Security** 🤖: Researching adversarial, poisoning, and backdoor attacks.
-- **Applied Machine Learning** 📈: From 3D vision & ToF depth sensing to secure model deployment on cloud (EC2/Docker).
+- **Applied Machine Learning** 📈: Building deep learning systems for medical imaging, 3D vision, and secure AI applications. From 3D vision & ToF depth sensing to secure model deployment on cloud (EC2/Docker).
+- **ML Systems** ☁️: Deploying and optimizing ML workloads using PyTorch, Docker, and AWS EC2.
 
-
-💼 Open to **MLE** and **Forward Deployed Engineer** roles
+💼 Open to **MLE**, **Research Scientist** and **AI Engineer** roles
 
 ![Profile views](https://komarev.com/ghpvc/?username=Xinyun999&label=Profile%20views&color=0e75b6&style=flat)
 
