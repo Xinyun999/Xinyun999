@@ -14,6 +14,7 @@ I'm a Computational Science & Engineering PhD candidate with 4+ years of ML expe
 - **ML Systems** ☁️: Deploying and optimizing ML workloads using PyTorch, Docker, and AWS EC2.
 
 💼 Open to **MLE**, **Research Scientist** and **AI Engineer** roles
+📄 [Resume](https://github.com/Xinyun999/Xinyun999/raw/main/xinyunl@mtu.edu_resume.pdf)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Xinyun999&label=Profile%20views&color=0e75b6&style=flat)
 
